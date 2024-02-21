@@ -14,7 +14,7 @@ case is available in CSV format having 6362620 rows and 10 columns.
   * Matpplotlib
   * Scikit-learn
     
-## Data: 
+## Data: [CSV Link](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
 
 * step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 * type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
